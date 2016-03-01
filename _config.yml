@@ -1,0 +1,14 @@
+layout_spectrum: 0.8923086
+color:
+  saturation: 0.8914894
+  brandStrength: 0.3055494
+  lightness: 1
+  rhythmicContrast: 0.04154694
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.948926
+name: Chappy Happy
