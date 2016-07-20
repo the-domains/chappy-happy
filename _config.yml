@@ -1,8 +1,6 @@
-layout_spectrum: 0.8923086
 color:
   saturation: 0.8914894
   brandStrength: 0.3055494
-  lightness: 1
   rhythmicContrast: 0.04154694
   brandColors:
     - '#71A7FE'
@@ -10,5 +8,19 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  lightness: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8923086
 typography_spectrum: 0.948926
 name: Chappy Happy
